@@ -1,0 +1,199 @@
+areaName,Borough,areaType,2010 median rent for 1B,2011 median rent for 1B,2012 median rent for 1B,2013 median rent for 1B,2014 median rent for 1B,2015 median rent for 1B,2016 median rent for 1B,2017 median rent for 1B,2018 median rent for 1B,2019 median rent for 1B,2020 median rent for 1B,2021 median rent for 1B,2022 median rent for 1B,2023 estimated median rent for 1B  (using 8 months in 2023)
+All Downtown,Manhattan,submarket,3000,3217.5,3300,3399.5,3487.5,3547.5,3525,3497.5,3587.5,3797.5,3497.5,3725,4462.5,4500
+All Midtown,Manhattan,submarket,2985,3206.5,3300,3345,3420,3478.5,3470,3377.5,3425,3550,3247.5,3482.5,4177.5,4327
+All Upper East Side,Manhattan,submarket,2495,2599,2637.5,2675,2731.5,2822.5,2885,2797.5,2875,3025,2807.5,2686,3375,3497.5
+All Upper Manhattan,Manhattan,submarket,1550,1625,1699.5,1706.5,1737.5,1816.5,1906.5,1946.5,1940,2035,1975,1935,2147,2397.5
+All Upper West Side,Manhattan,submarket,2600,2875,2967.5,2970,2975,3125,3150,3120,3120,3307,3025,3194,3912,4088
+Astoria,Queens,neighborhood,1450,1825,1825,1711.5,1800,1887.5,1947.5,1925,1900,1937.5,1900,1850,2137.5,2445
+Auburndale,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1600,#NUM!,#NUM!,#NUM!
+Bath Beach,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1544,1619,1622.5,1595,1648,1750
+Battery Park City,Manhattan,neighborhood,2925,3034,3200,3322.5,3317.5,3550,3555,3581.5,3649,3830,3583,3750,4127.5,4605
+Bay Ridge,Brooklyn,neighborhood,1300,1350,1398,1469,1550,1575,1637.5,1650,1675,1681,1675,1675,1775,1949.5
+Baychester,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Bayside,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1775,#NUM!,1850,1862.5,1856.5,2006.5,2137.5
+Bedford Park,Bronx,neighborhood,#NUM!,#NUM!,1050,#NUM!,1350,1344,1450,1375,#NUM!,1660,1660,#NUM!,1661.5,#NUM!
+Bedford-Stuyvesant,Brooklyn,neighborhood,1400,1400,1506.5,1625,1725,1836,1961,2000,2075,2186,2087.5,2137.5,2537,2750
+Bellerose,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Belmont,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Bensonhurst,Brooklyn,neighborhood,#NUM!,1300,#NUM!,#NUM!,1331.5,1399.5,1399,1550,1599,1587.5,1574,1559.5,1656,1900
+Bergen Beach,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Boerum Hill,Brooklyn,neighborhood,2125,2262.5,2437.5,2500,2425,2575,2525,2599,2450,2556,2662.5,2725,3350,3561.5
+Borough Park,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,1250,1350,1350,1537.5,1801,1595,1597.5,1619,1592.5,1737.5,1899
+Briarwood,Queens,neighborhood,#NUM!,#NUM!,#NUM!,1450,1550,1671.5,1679,1572.5,1612.5,1712.5,1719,1725,1812.5,1925
+Brighton Beach,Brooklyn,neighborhood,#NUM!,#NUM!,1631.5,#NUM!,1475,1575,1685,1766.5,1734.5,1891.5,1749.5,1825,2156.5,2335
+Bronx,Bronx,borough,1312.5,1250,1212.5,1250,1262.5,1375,1462.5,1512.5,1572.5,1647.5,1699,1712.5,1787.5,2068.5
+Bronxwood,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1400,1449.5,1550,1637.5,1625,1595,1640,1638
+Brooklyn,Brooklyn,borough,1972.5,2050,2300,2291.5,2250,2275,2290,2220,2200,2287,2272.5,2150,2525,2975
+Brooklyn Heights,Brooklyn,neighborhood,2225,2525,2697.5,2812.5,2725,2687.5,2867.5,2947.5,2981.5,3265,3087.5,3220,3887.5,3893
+Brookville,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Brownsville,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1325,1375,1462.5,1550,#NUM!,#NUM!,1650,1662.5,1800
+Bushwick,Brooklyn,neighborhood,1500,2000,1800,1847.5,1905,1887.5,2050,2049.5,2173.5,2357,2415.5,2291,2719,2900
+Cambria Heights,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Canarsie,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1750,2000
+Carroll Gardens,Brooklyn,neighborhood,2025,2281.5,2475,2450,2450,2494,2469,2525,2611.5,2694,2550,2575,3025,3336.5
+Castle Hill,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1400,1400,1475,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Central Harlem,Manhattan,neighborhood,1533,1687.5,1697.5,1712.5,1775,1971,2047.5,2092.5,2137.5,2175,2135,2070,2373.5,2550
+Central Park South,Manhattan,neighborhood,5500,5787.5,5550,6000,6462.5,7087.5,6750,6250,6475,6478,5652,6086.5,6787.5,6550
+Central Queens,Queens,submarket,1150,1467.5,1550,1587.5,1675,1737.5,1800,1800,1799.5,1847.5,1845,1850,2017,2250
+Chelsea,Manhattan,neighborhood,3150,3350,3500,3546.5,3622.5,3812.5,3864.5,3851.5,3951.5,4197.5,3771,4159,4998,5177
+Chinatown,Manhattan,neighborhood,1950,2050,2550,2525,2675,2350,2349,2447.5,2350,2485.5,2087.5,2211.5,2800,2700
+City Island,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Civic Center,Manhattan,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Clearview,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Clinton Hill,Brooklyn,neighborhood,1775,1987.5,2375,2325,2250,2371.5,2399.5,2379.5,2422,2573,2462.5,2535,3113,3600
+Co-op City,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Cobble Hill,Brooklyn,neighborhood,2200,2600,2610,2462.5,2500,2637.5,2612.5,2540,2650,2710,2620,2660,3247.5,3450
+College Point,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Columbia St Waterfront District,Brooklyn,neighborhood,#NUM!,1700,#NUM!,#NUM!,2140,2200,2275,2350,2450,2500,2275,2500,2600,#NUM!
+Concourse,Bronx,neighborhood,#NUM!,1075,1200,1387,1375,1300,1410,1497.5,1526.5,1601,1618.5,1634,1736.5,1837.5
+Coney Island,Brooklyn,neighborhood,#NUM!,#NUM!,1425,#NUM!,#NUM!,#NUM!,1818.5,1850,2150,2354,2337,2139.5,2353,2625
+Corona,Queens,neighborhood,1150,1150,#NUM!,#NUM!,#NUM!,1600,1702.5,1850,1853,1892,1807,1870.5,2072,2100
+Country Club,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Crotona Park East,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1590,#NUM!
+Crown Heights,Brooklyn,neighborhood,1506,1431.5,1612.5,1597.5,1617.5,1725,1850,1887,1962.5,2050,2025,2025,2367.5,2750
+DUMBO,Brooklyn,neighborhood,2950,3100,3249,3587.5,3625,3783.5,3745.5,3675,3851,3981,3870,4124,4514,5087
+Ditmas Park,Brooklyn,neighborhood,#NUM!,1450,1487.5,1606.5,1516.5,1573.5,1762.5,1706.5,1756.5,1830.5,1862.5,1787.5,2012.5,2273.5
+Douglaston,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1500,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Downtown Brooklyn,Brooklyn,neighborhood,2418,2475,2536,2813.5,2892.5,3063.5,3022,3029,3248.5,3385.5,3226.5,3472.5,3975,4194.5
+Dyker Heights,Brooklyn,neighborhood,#NUM!,1225,#NUM!,#NUM!,#NUM!,1349,#NUM!,#NUM!,1525,1637.5,1638,1550,1550,1813
+East Brooklyn,Brooklyn,submarket,1475,1499,1562.5,1625,1700,1797.5,1947.5,1990,2074,2177,2124.5,2122.5,2522.5,2800
+East Elmhurst,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+East Flatbush,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1250,1300,1462.5,1600,1650,1724.5,1777.5,1799.5,1937.5,2260
+East Harlem,Manhattan,neighborhood,1922.5,1813,2037.5,1947.5,1895,1939,2111,2107.5,2000,2047.5,1987.5,1937.5,2175,2545
+East New York,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1438,1499.5,#NUM!,1822.5,1824.5,1676.5,1825,1975
+East Tremont,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+East Village,Manhattan,neighborhood,2347.5,2500,2697.5,2697.5,2647.5,2695,2775,2704,2695,2825,2647.5,2775,3300,3472.5
+Eastchester,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Edenwald,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Elmhurst,Queens,neighborhood,#NUM!,#NUM!,1950,1781.5,1647.5,1654.5,1690,1687.5,1819,1835,1787.5,1812.5,1974.5,2150
+Financial District,Manhattan,neighborhood,3265,3406.5,3595,3547.5,3581.5,3654,3700,3720,3842.5,4019.5,3747.5,4052.5,4657.5,4701.5
+Flatbush,Brooklyn,neighborhood,#NUM!,1250,1300,1276.5,1350,1450,1597.5,1650,1762.5,1934,1927,1949.5,2276.5,2500
+Flatiron,Manhattan,neighborhood,3500,3887.5,3925,3750,4152,4404,4500.5,4400.5,4541,4628,4285,4673.5,5372,5657.5
+Flatlands,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Floral Park,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Flushing,Queens,neighborhood,#NUM!,1288,1347,1381.5,1477.5,1524.5,1625,1722.5,1725,1750,1772.5,1775,1847.5,1975
+Fordham,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1185,1300,1350,1400,1500,1570.5,1519,1550,1601.5,1760.5
+Forest Hills,Queens,neighborhood,1550,1650,1737.5,1681.5,1762.5,1885,1850,1846,1873.5,1938.5,1949.5,1905,2087.5,2300
+Fort Greene,Brooklyn,neighborhood,2050,2295,2399,2512.5,2550,2561.5,2587.5,2675,2950,2974,2950,3193,3770,3887.5
+Fresh Meadows,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,2100
+Gerritsen Beach,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Glen Oaks,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Glendale,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1700,#NUM!,1975,2012.5
+Gowanus,Brooklyn,neighborhood,#NUM!,2489.5,2950,2462.5,2500,2549,2850,2674,2693,2881.5,2600,2399.5,3357.5,4015.5
+Gramercy Park,Manhattan,neighborhood,3237.5,3250,3300,3350,3525,3525,3449,3380,3551.5,3650,3537.5,3850,4174,4387.5
+Gravesend,Brooklyn,neighborhood,#NUM!,1220,1231.5,1350,1381.5,1425,1537,1637.5,1637.5,1672.5,1644,1662.5,1775,1800
+Greenpoint,Brooklyn,neighborhood,2100,1950,2225,2200,2400,2275,2497.5,2375,2400,2591.5,2700,2675,3575,3971
+Greenwich Village,Manhattan,neighborhood,3175,3400,3524,3572.5,3800,3995,3906.5,3737.5,3697.5,3995,3647.5,3949,4336.5,4770
+Greenwood,Brooklyn,neighborhood,#NUM!,1395,#NUM!,1800,1699,1906.5,1987,2000,1993.5,1870,1900,1925,2725,2550
+Hamilton Heights,Manhattan,neighborhood,1499,1649,1672.5,1600,1700,1747.5,1848.5,1949,1897.5,1950,1936.5,1937.5,2075,2372.5
+Highbridge,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1350,#NUM!,#NUM!,#NUM!,1697.5,1690,1760,1897.5
+Hillcrest,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Hollis,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Howard Beach,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Hunts Point,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Inwood,Manhattan,neighborhood,1287,1375,1380,1406.5,1475,1575,1667.5,1632.5,1735,1767.5,1800,1789,1906,1975
+Jackson Heights,Queens,neighborhood,#NUM!,1329,1448,1480,1631.5,1700,1718,1775,1768.5,1822,1781.5,1831.5,1987,2130
+Jamaica,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1817,1829,2013,2185,2155.5,2285,2482.5,2657.5
+Jamaica Estates,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1612,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1825,2037.5
+Jamaica Hills,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1895
+Kensington,Brooklyn,neighborhood,1638,1500,1425,1549,1550,1656,1675,1696,1750,1803.5,1775,1767.5,2000,2219
+Kew Gardens,Queens,neighborhood,#NUM!,#NUM!,1600,1450,1550,1687.5,1775,1784,1747,1750,1788,1800,1974,2035
+Kew Gardens Hills,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1800,1700,1787.5,1719,1712.5,1737.5,1762.5,1999,2450
+Kingsbridge,Bronx,neighborhood,#NUM!,#NUM!,1761.5,1163,1375,1374,1450,1500,1517.5,1633.5,1680,1650,1719,1947.5
+Laconia,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Laurelton,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Little Italy,Manhattan,neighborhood,2435.5,2325,2250,2875,2775,2400,2375,2451.5,2422.5,2475,2399.5,2400,3335,3390
+Little Neck,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Long Island City,Queens,neighborhood,2616.5,2756.5,2817.5,2732.5,2916.5,2965,2911,2900,2957,3145,3083,3299.5,3645,3900
+Longwood,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Lower East Side,Manhattan,neighborhood,2075,2199,2395,2395,2455,2574,2597.5,2500,2600,2974,2850,2846.5,3348.5,3710
+Manhattan,Manhattan,borough,2775,2975,3000,3087.5,3137.5,3222.5,3222.5,3137,3175,3320,3081,3100,3825,4000
+Manhattan Beach,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Marble Hill,Manhattan,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Marine Park,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Maspeth,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1475,1562,#NUM!,1637.5,#NUM!,1600,1625,1900,1974.5
+Melrose,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Middle Village,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1625,1695,#NUM!,#NUM!
+Midtown,Manhattan,neighborhood,3500,3697.5,3700,3649,3747.5,3750,3688.5,3588.5,3600,3713.5,3392.5,3700,4595,4638.5
+Midtown East,Manhattan,neighborhood,2825,3035,3100,3175,3230,3297.5,3297.5,3247.5,3301,3433,3147.5,3342.5,3936.5,4175
+Midtown South,Manhattan,neighborhood,3250,3300,3500,3500,3710,3913.5,4007.5,3857.5,3807.5,4151,3637.5,4090,4945,4994.5
+Midtown West,Manhattan,neighborhood,2864.5,3170,3275,3275,3350,3318,3266,3291.5,3414.5,3512.5,3188,3484.5,4192,4292.5
+Midwood,Brooklyn,neighborhood,#NUM!,1300,1300,1305.5,1361.5,1462.5,1572.5,1604,1650,1690,1749.5,1725,1912.5,1949.5
+Mill Basin,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Morningside Heights,Manhattan,neighborhood,1998,2222.5,2397,2387.5,3347.5,2875,2850,2795,2650,3340.5,2850,3020.5,3236.5,3547.5
+Morris Heights,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1295,1295,#NUM!,1413,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Morris Park,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1400,1425,1475,1537.5,1575,1600,#NUM!,#NUM!,#NUM!,#NUM!
+Morrisania,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Mott Haven,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1700,#NUM!,1975,1980,2062.5,2148,2287.5,2360,2733.5
+NYC,NULL,city,2632,2797.5,2882.5,2856,2775,2750,2750,2622.5,2532.5,2600,2597,2425,2925,3385
+New Hyde Park,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Nolita,Manhattan,neighborhood,2650,2869,3296.5,3079,3197.5,3297.5,3172.5,3250,3196.5,3246.5,2947,3047.5,4010.5,4122.5
+North Brooklyn,Brooklyn,submarket,2500,2700,2925,2887.5,2938,2969.5,2956,2758.5,2682.5,2910,2899.5,2950,3825,4076
+North Corona,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1550,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Northeast Queens,Queens,submarket,1350,1300,1400,1400,1525,1600,1695,1675,1712.5,1750,1750.5,1775,1862.5,1997.5
+Northwest Brooklyn,Brooklyn,submarket,2151,2375,2500,2600,2660,2697.5,2715.5,2761,2872.5,3029,2922.5,3125,3775,3956
+Northwest Queens,Queens,submarket,1811.5,1900,2724,2150,2047.5,2050,2100,2075,2023.5,2150,2087.5,1955,2450,3021.5
+Norwood,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1269,1400,1419,1475,1522.5,1550,#NUM!,1767.5,1781.5
+Oakland Gardens,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1700,#NUM!,#NUM!,#NUM!,1885,1895,2100
+Ocean Parkway,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Old Mill Basin,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Ozone Park,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Park Slope,Brooklyn,neighborhood,2000,2212.5,2300,2400,2387.5,2525,2525,2447.5,2525,2606,2525,2550,2950,3198
+Parkchester,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1195,#NUM!,1425,1410,1422.5,1480,#NUM!,#NUM!,#NUM!,#NUM!
+Pelham Bay,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Pelham Gardens,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Pelham Parkway,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1750,1675,1750,1799
+Pomonok,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Port Morris,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Prospect Heights,Brooklyn,neighborhood,1800,2075,2100,2112.5,2250,2350,2375,2515,2549.5,2600,2595,3037.5,3897.5,4125
+Prospect Lefferts Gardens,Brooklyn,neighborhood,#NUM!,#NUM!,1337.5,1375,1500,1556.5,1748,1813.5,1877.5,1910,1875,1860,2137.5,2500
+Prospect Park,Brooklyn,submarket,1825,2100,2200,2175,2225,2373,2350,2268.5,2325,2400,2348.5,2275,2723.5,3075
+Prospect Park South,Brooklyn,neighborhood,#NUM!,#NUM!,1190,1437.5,1572.5,1675,1800,1760,1796.5,1941.5,1843,1812.5,2085,2412.5
+Queens,Queens,borough,1400,1568,2375,1737.5,1792.5,1837.5,1912.5,1887.5,1887,1925,1912.5,1875,2137,2387.5
+Queens Village,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Red Hook,Brooklyn,neighborhood,1469,#NUM!,2000,2000,#NUM!,2450,2293.5,2300,2642,2113,2250,2000,#NUM!,3000
+Rego Park,Queens,neighborhood,1350,1400,1450,1619.5,1706.5,1847.5,1994,1925,1822.5,1862.5,1845,1875,2033,2275
+Richmond Hill,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1450,1400,1523,#NUM!,#NUM!,#NUM!,1613,#NUM!,#NUM!
+Ridgewood,Queens,neighborhood,#NUM!,#NUM!,2025,#NUM!,#NUM!,1799,1747.5,1849,1875,1849,1900,2075,2300,2500
+Riverdale,Bronx,neighborhood,1500,1475,1500,1600,1699.5,1812,1825,1844,1849.5,1878.5,1925,1957.5,2100,2257
+Rockaway All,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1300,#NUM!,1603,1571.5,1695,1725,1693.5,1807,1905.5,2100
+Roosevelt Island,Manhattan,neighborhood,2300,2475.5,2843,2949,2997.5,2900,2919,2662.5,2637.5,2787.5,2879,3164.5,3561,3861.5
+Rosedale,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Schuylerville,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Seagate,Brooklyn,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Sheepshead Bay,Brooklyn,neighborhood,1175,1287.5,1400,1394,1416.5,1487.5,1547.5,1642.5,1697.5,1695,1675,1697.5,1794,2224
+Soho,Manhattan,neighborhood,3024,3600,3800,3500,3225,3422.5,3348,3412.5,3565,3850,3550,4210,4500,4670
+Soundview,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1263,1344,#NUM!,#NUM!,1425,1425,1630,#NUM!,#NUM!,#NUM!
+South Brooklyn,Brooklyn,submarket,1299,1287.5,1385,1445,1476.5,1525,1622,1650,1687.5,1725,1747.5,1747.5,1987.5,2278
+South Jamaica,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+South Ozone Park,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+South Queens,Queens,submarket,#NUM!,#NUM!,1430,1353,1416.5,1472.5,1553.5,1695.5,1625,1737.5,1775,1912.5,2073.5,2209.5
+South Richmond Hill,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Springfield Gardens,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+St. Albans,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Staten Island,Staten Island,borough,#NUM!,#NUM!,1350,1150,1150,1297.5,1500,1550,1575,1720,1795,1600,1587.5,1725
+Stuyvesant Town/PCV,Manhattan,neighborhood,#NUM!,3324,3378,3249.5,3274,3258,3256.5,3431.5,3573.5,3570.5,3662,4285,4458,4510
+Sunnyside,Queens,neighborhood,1400,1450,1525,1587.5,1730,1847.5,1925,1887.5,1862.5,1924,1830,1875,2075,2250
+Sunset Park,Brooklyn,neighborhood,1200,1050,1313,1400,1449.5,1562.5,1637.5,1719,1687,1700,1736.5,1674.5,1794,2067.5
+The Rockaways,Queens,submarket,#NUM!,#NUM!,#NUM!,#NUM!,1300,#NUM!,1603,1571.5,1695,1725,1693.5,1807,1905.5,2100
+Throgs Neck,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Tremont,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1300,1362.5,1350,#NUM!,#NUM!,1725,1600,1687.5,1695
+Tribeca,Manhattan,neighborhood,3850,4022.5,4324,4269,4467.5,4546.5,4670.5,4545.5,4662.5,5051.5,4710,5354,6201,6416.5
+University Heights,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1212.5,1275,1350,1473,1524.5,1554,1609.5,1598,1672.5,1817
+Upper East Side,Manhattan,neighborhood,2495,2599,2637.5,2675,2731.5,2822.5,2885,2797.5,2875,3025,2807.5,2686,3375,3497.5
+Upper West Side,Manhattan,neighborhood,2600,2875,2967.5,2970,2975,3125,3150,3120,3120,3307,3025,3194,3912,4088
+Utopia,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Van Nest,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Wakefield,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,1375,1312.5,1412.5,1375,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Washington Heights,Manhattan,neighborhood,1429,1497.5,1500,1600,1575,1672,1750,1800,1799,1837.5,1847.5,1850,2037.5,2200
+West Harlem,Manhattan,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1850,1887.5,2305,2369,2162.5,1985,1921.5,2219,2636.5
+West Village,Manhattan,neighborhood,3071.5,3312.5,3300,3400,3475,3550,3594,3496.5,3624,3897.5,3555,3793,4597.5,4612.5
+Westchester Village,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Whitestone,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Williamsbridge,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1500,#NUM!
+Williamsburg,Brooklyn,neighborhood,2525,2800,2986.5,2943,2972.5,3096.5,3065,2870,2750,2987.5,2950,3099.5,3857.5,4156.5
+Windsor Terrace,Brooklyn,neighborhood,1700,1649,1800,2150,2200,2200,2162.5,2147.5,2248.5,2372.5,2336.5,2225,2647.5,2986.5
+Woodhaven,Queens,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,1700,#NUM!,#NUM!,#NUM!,1688,1701,#NUM!,1975,1975
+Woodlawn,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
+Woodside,Queens,neighborhood,#NUM!,1475,#NUM!,1450,1597.5,1662.5,1681.5,1706.5,1695,1775,1762.5,1799.5,1887.5,2187.5
+Woodstock,Bronx,neighborhood,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!,#NUM!
